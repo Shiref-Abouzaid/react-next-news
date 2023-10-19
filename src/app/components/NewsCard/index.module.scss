@@ -1,0 +1,25 @@
+.newsCard {
+    img {
+        max-width: 100%;
+        height: 20rem;
+        object-fit: cover;
+    }
+    a{
+        color:#444 !important;
+        text-decoration: none;
+    }
+    h2 {
+        font-size: 1.5rem ;   
+    }
+
+}
+.imgContainer {
+    min-height: 20rem;
+    display: block;
+
+}
+
+.cardFooter {
+    padding-bottom: 1rem;
+    color: #aaa;
+}

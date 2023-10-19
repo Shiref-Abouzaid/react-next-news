@@ -1,0 +1,26 @@
+.navbar  {
+    background-color: #FFF !important;
+    padding: 0;
+}
+.navLinks  {
+    display: flex;
+    gap:30px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0 ;
+    a {
+        font-weight: bold;
+        color: black;
+    }
+    
+}
+.searchContainer {
+    color: red;
+    padding:1rem .5rem;
+    display: flex;
+    justify-content: space-between;
+    input {
+        border:none;
+        outline: none;
+    }
+}
